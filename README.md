@@ -24,5 +24,5 @@ Para finalizar la adición de obstáculos, escribe basta.
 **Ingresar Coordenadas:**
 El script solicitará las coordenadas del punto de inicio y del punto final.
 
-Encontrar la Ruta:
+**Encontrar la Ruta:**
 El algoritmo A* calculará la ruta más corta y mostrará el mapa con la ruta encontrada.
