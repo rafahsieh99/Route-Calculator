@@ -11,17 +11,17 @@ El usuario puede crear un mapa, agregar diferentes tipos de obstáculos y encont
 - **Búsqueda de Ruta:** Utiliza el algoritmo A* para encontrar la ruta más corta entre dos puntos.
 
 ## Uso
-Crear el Mapa:
+**Crear el Mapa:**
 El script solicitará las dimensiones del mapa (número de filas y columnas).
 
-Añadir Obstáculos:
+**Añadir Obstáculos:**
 Los usuarios pueden añadir los siguientes obstáculos:
 X para edificios (costo muy alto)
 #para baches (costo medio)
 ! para agua (costo medio)
 Para finalizar la adición de obstáculos, escribe basta.
 
-Ingresar Coordenadas:
+**Ingresar Coordenadas:**
 El script solicitará las coordenadas del punto de inicio y del punto final.
 
 Encontrar la Ruta:
